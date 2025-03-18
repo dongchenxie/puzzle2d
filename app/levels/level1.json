@@ -1,0 +1,12 @@
+{
+  "id": "level1",
+  "name": "Sweet Beginnings",
+  "description": "Place all the candy pieces on the board to complete the puzzle!",
+  "grid": [
+    ["X", "X", "X", "1", "X"],
+    ["X", "1", "1", "1", "1"],
+    ["X", "2", "0", "1", "X"],
+    ["2", "2", "2", "2", "X"],
+    ["X", "2", "X", "X", "X"]
+  ]
+} 

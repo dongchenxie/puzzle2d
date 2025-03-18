@@ -1,0 +1,12 @@
+{
+  "id": "level2",
+  "name": "Candy Crush",
+  "description": "A more challenging puzzle with three different piece types!",
+  "grid": [
+    ["X", "X", "1", "1", "X"],
+    ["X", "2", "2", "1", "X"],
+    ["3", "3", "2", "0", "1"],
+    ["X", "3", "3", "3", "X"],
+    ["X", "X", "X", "X", "X"]
+  ]
+} 
